@@ -1,4 +1,4 @@
-# Semantic Segmentation for Real Point Cloud Scenesvia Bilateral Augmentation and Adaptive Fusion (CVPR2021)
+# Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion
 This repository is for BAAF-Net introduced in the following paper:
  
 "Semantic Segmentation for Real Point Cloud Scenesvia Bilateral Augmentation and Adaptive Fusion"  

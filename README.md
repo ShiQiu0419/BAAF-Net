@@ -7,3 +7,14 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 
 ## Paper
 Coming soon.
+
+## Citation
+
+If you find our paper is useful, please cite:
+
+    @inproceedings{qiu2021semantic,
+      title={Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion},
+      author={Qiu, Shi and Anwar, Saeed and Barnes, Nick},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2021},
+    }

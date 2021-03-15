@@ -6,7 +6,7 @@ This repository is for BAAF-Net introduced in the following paper:
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 
 ## Paper
-[arXiv](https://arxiv.org/abs/2103.07074)
+The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).
 
 ## Citation
 

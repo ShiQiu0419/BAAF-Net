@@ -22,8 +22,8 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 * More Functions about loading/writing/etc. **ply** files can be found from [here](https://github.com/QingyongHu/RandLA-Net/blob/master/utils/6_fold_cv.py).
 
 ## Results on SemanticKITTI Dataset
-* Download our results (**label** files) via [google drive](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) for visualizations/comparisons.
-* Visualization tools can be found from [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api)
+* Download our results (**label** files) via [google drive](https://drive.google.com/file/d/1FkyNfknwnJ2YnwUvPhMQGvJXCW--mqkK/view?usp=sharing) for visualizations/comparisons.
+* Visualization tools can be found from [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api).
 
 ## Code
 Coming soon.

@@ -8,7 +8,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 ## Paper
 The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).
 
-## 6-fold cross-validation results on S3DIS dataset
+## Results on S3DIS Dataset
 <p align="center">
   <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
 </p>

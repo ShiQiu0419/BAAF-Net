@@ -14,6 +14,7 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 </p>
 
 * Download our results (ply files) via [google drive](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) for visualizations/comparisons.
+* Codes for 6-fold cross-validation can be found from [here](https://github.com/QingyongHu/RandLA-Net/blob/master/utils/6_fold_cv.py).
 
 ## Code
 Coming soon.

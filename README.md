@@ -8,6 +8,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 ## Paper
 The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).
 
+## Updates
+* **04/05/2021** Results for S3DIS datasets (mIoU: **72.2%**, OA: **88.9%**, mAcc: **83.1%**) are available at [google drive](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) now. 
+* To be continued.
+
 ## Results on S3DIS Dataset
 <p align="center">
   <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
@@ -22,7 +26,7 @@ Coming soon.
 
 ## Citation
 
-If you find our paper is useful, please cite:
+If you find our paper/results are useful, please cite:
 
     @inproceedings{qiu2021semantic,
       title={Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion},

@@ -16,7 +16,7 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 
 ## Results on S3DIS Dataset
 <p align="center">
-  <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
+  <img width="1000" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
 </p>
 
 * Download our results (**ply** files) via [google drive](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) for visualizations/comparisons.

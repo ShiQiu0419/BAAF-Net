@@ -10,7 +10,7 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 
 ## Test Results on S3DIS Dataset
 <p align="center">
-  <img width="900" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
+  <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
 </p>
 
 ## Code

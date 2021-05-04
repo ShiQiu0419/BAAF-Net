@@ -9,7 +9,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).
 
 ## Test Results on S3DIS Dataset
-
+<p align="center">
+  <img width="900" src="https://github.com/ShiQiu0419/BAAF-Net/s3dis.png">
+</p>
 ## Code
 Coming soon.
 

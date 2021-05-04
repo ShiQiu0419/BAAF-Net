@@ -27,6 +27,9 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 * Online test results (sequence 11-21): mIoU: **59.9%**, OA: **89.8%**
 * Download our **test** results (sequence 11-21 **label** files) via [google drive](https://drive.google.com/file/d/1FkyNfknwnJ2YnwUvPhMQGvJXCW--mqkK/view?usp=sharing) for visualizations/comparisons.
 * Validation results (sequence 08): mIoU: **58.7%**, OA: **91.3%**
+<p align="center">
+  <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s08.png">
+</p>  
 * Download our **validation** results (sequence 08 **label** files) via [google drive](https://drive.google.com/file/d/1grQ57rZXL34mAOmI_3IASovu_APOPMI3/view?usp=sharing) for visualizations/comparisons.
 * Visualization tools can be found from [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api).
 

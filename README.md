@@ -28,7 +28,7 @@ The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074
 * Download our **test** results (sequence 11-21 **label** files) via [google drive](https://drive.google.com/file/d/1FkyNfknwnJ2YnwUvPhMQGvJXCW--mqkK/view?usp=sharing) for visualizations/comparisons.
 
 <p align="center">
-  <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s08.png">
+  <img width="1200" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/kitti_08.png">
 </p>  
 
 * Validation results (sequence 08): mIoU: **58.7%**, OA: **91.3%**

@@ -21,7 +21,7 @@ If you find our paper/codes/results are useful, please cite:
       year={2021},
     }
 
-## Experimental Environment
+## Environmental Settings
 * The project is tested on Python 3.6, Tensorflow 1.13.1 and Cuda 10.0
 * Then install the dependencies: ```pip install -r helper_requirements.txt```
 * And compile the cuda-based operators: ```sh compile_op.sh```  

@@ -21,6 +21,11 @@ If you find our paper/codes/results are useful, please cite:
       year={2021},
     }
 
+## Dataset Preparation
+* Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>. 
+Download the files named "Stanford3dDataset_v1.2_Aligned_Version.zip". Uncompress the folder and move it to 
+`/data/S3DIS`.
+
 ## Environmental Settings
 * The project is tested on Python 3.6, Tensorflow 1.13.1 and Cuda 10.0
 * Then install the dependencies: ```pip install -r helper_requirements.txt```

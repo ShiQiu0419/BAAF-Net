@@ -43,7 +43,8 @@ If you find our paper/codes/results are useful, please cite:
 * Training (may change `--test_area`):
 ```
 python -B main_S3DIS.py --gpu 0 --mode train --test_area 5
-```
+```  
+(Note: specify the index of `--test_area` as one of `1~6`)
 * Test (may change `--test_area` and `--model_path`):
 ```
 python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrained/Area5/snap-32251'

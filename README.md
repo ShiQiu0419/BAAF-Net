@@ -40,7 +40,7 @@ If you find our paper/codes/results are useful, please cite:
 (Note: may specify other directory as ```dataset_path``` in ```./utildata_prepare_s3dis.py```)
 
 ## Training/Test
-* Training (may change `--test_area`):
+* Training:
 ```
 python -B main_S3DIS.py --gpu 0 --mode train --test_area 5
 ```  
@@ -52,8 +52,8 @@ python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrain
 (Note: specify the `--test_area` index and the trained model path `--model_path`)
 
 ## 6-fold Cross Validation
-* Conduct training and test on each area
-* Extract all test results, `Area_1_conferenceRoom_1.ply` ... `Area_6_pantry_1.ply` (272 `.ply` files in total), to the folder `./data/results`
+* Conduct training and test on **each area**.
+* Extract **all test results**, `Area_1_conferenceRoom_1.ply` ... `Area_6_pantry_1.ply` (272 `.ply` files in total), to the folder `./data/results`
 * Run: `python utils/6_fold_cv.py`  
 (Note: may change the target folder `original_data_dir` and the test results `base_dir`)
 

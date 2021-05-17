@@ -37,7 +37,7 @@ If you find our paper/codes/results are useful, please cite:
 * Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>.
 * Unzip and move the folder ```Stanford3dDataset_v1.2_Aligned_Version``` to `./data`.
 * Run: ```python utils/data_prepare_s3dis.py```  
-(Note: may specify other directory as ```dataset_path``` in ```./utildata_prepare_s3dis.py```)
+(Note: may specify other directory as ```dataset_path``` in ```./util/data_prepare_s3dis.py```)
 
 ## Training/Test
 * Training:
@@ -55,7 +55,7 @@ python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrain
 * Conduct training and test on **each area**.
 * Extract **all test results**, `Area_1_conferenceRoom_1.ply` ... `Area_6_pantry_1.ply` (272 `.ply` files in total), to the folder `./data/results`
 * Run: `python utils/6_fold_cv.py`  
-(Note: may change the target folder `original_data_dir` and the test results `base_dir`)
+(Note: may change the target folder `original_data_dir` and the test results `base_dir` in ```./util/6_fold_cv.py```)
 
 ## Results on S3DIS Dataset
 <p align="center">

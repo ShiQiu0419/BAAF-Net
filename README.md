@@ -40,11 +40,11 @@ If you find our paper/codes/results are useful, please cite:
 (Note: may specify other directory as ```dataset_path``` in ```./utildata_prepare_s3dis.py```)
 
 ## Training/Test
-* Train:
+* Training (may change `--test_area`):
 ```
 python -B main_S3DIS.py --gpu 0 --mode train --test_area 5
 ```
-* Test:
+* Test (may change `--test_area` and `--model_path`):
 ```
 python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrained/Area5/snap-32251'
 ```

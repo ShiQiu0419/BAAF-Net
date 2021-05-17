@@ -29,7 +29,7 @@ If you find our paper/codes/results are useful, please cite:
 
 ## Dataset Preparation
 * Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>.
-* Unzip and move the folder ```Stanford3dDataset_v1.2_Aligned_Version``` to `./data/S3DIS`.
+* Unzip and move the folder ```Stanford3dDataset_v1.2_Aligned_Version``` to `./data`.
 
 ## Updates
 * **04/05/2021** Results for S3DIS dataset (mIoU: **72.2%**, OA: **88.9%**, mAcc: **83.1%**) are [available](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) now. 

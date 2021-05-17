@@ -21,17 +21,15 @@ If you find our paper/codes/results are useful, please cite:
       year={2021},
     }
 
-## Dataset Preparation
-* Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>. 
-Download the files named "Stanford3dDataset_v1.2_Aligned_Version.zip". Uncompress the folder and move it to 
-`/data/S3DIS`.
-
 ## Environmental Settings
 * The project is tested on Python 3.6, Tensorflow 1.13.1 and Cuda 10.0
 * Then install the dependencies: ```pip install -r helper_requirements.txt```
 * And compile the cuda-based operators: ```sh compile_op.sh```  
 (Note: may change the cuda root directory (```CUDA_ROOT```) in ```./util/sampling/compile_ops.sh```)
 
+## Dataset Preparation
+* Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>.
+* Unzip and move the folder ```Stanford3dDataset_v1.2_Aligned_Version``` to `./data/S3DIS`.
 
 ## Updates
 * **04/05/2021** Results for S3DIS dataset (mIoU: **72.2%**, OA: **88.9%**, mAcc: **83.1%**) are [available](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) now. 

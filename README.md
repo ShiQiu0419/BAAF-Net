@@ -27,13 +27,13 @@ If you find our paper/codes/results are useful, please cite:
 * **04/05/2021** Validation results (sequence 08: mIoU: **58.7%**, OA: **91.3%**) for SemanticKITTI are [available](https://drive.google.com/file/d/1grQ57rZXL34mAOmI_3IASovu_APOPMI3/view?usp=sharing) now.
 * To be continued.
 
-## Environmental Settings
+## Settings
 * The project is tested on Python 3.6, Tensorflow 1.13.1 and cuda 10.0
 * Then install the dependencies: ```pip install -r helper_requirements.txt```
 * And compile the cuda-based operators: ```sh compile_op.sh```  
 (Note: may change the cuda root directory ```CUDA_ROOT``` in ```./util/sampling/compile_ops.sh```)
 
-## Dataset Preparation
+## Dataset
 * Download S3DIS dataset from <a href="https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1">here</a>.
 * Unzip and move the folder ```Stanford3dDataset_v1.2_Aligned_Version``` to `./data`.
 * Run: ```python utils/data_prepare_s3dis.py```  

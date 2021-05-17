@@ -39,6 +39,16 @@ If you find our paper/codes/results are useful, please cite:
 * Run: ```python utils/data_prepare_s3dis.py```  
 (Note: may specify other directory as ```dataset_path``` in ```./utildata_prepare_s3dis.py```)
 
+## Training/Test
+* Train:
+```
+python -B main_S3DIS.py --gpu 0 --mode train --test_area 5
+```
+* Test:
+```
+python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrained/Area5/snap-32251'
+```
+
 ## Results on S3DIS Dataset
 <p align="center">
   <img width="1000" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">

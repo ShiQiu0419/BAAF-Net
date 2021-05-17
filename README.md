@@ -49,7 +49,7 @@ python -B main_S3DIS.py --gpu 0 --mode train --test_area 5
 ```
 python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrained/Area5/snap-32251'
 ```  
-(Note: specify the `--test_area` index and the path of a trained model `--model_path`)
+(Note: specify the `--test_area` index and the trained model path `--model_path`)
 
 ## Results on S3DIS Dataset
 <p align="center">

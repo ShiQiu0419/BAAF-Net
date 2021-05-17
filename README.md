@@ -54,7 +54,8 @@ python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrain
 ## 6-fold Cross Validation
 * Conduct training and test on each area
 * Extract all test results, `Area_1_conferenceRoom_1.ply` ... `Area_6_pantry_1.ply` (272 `.ply` files in total), to the folder `./data/results`
-* Run: `python utils/6_fold_cv.py`
+* Run: `python utils/6_fold_cv.py`  
+(Note: may change the target folder `original_data_dir` and the test results `base_dir`)
 
 ## Results on S3DIS Dataset
 <p align="center">

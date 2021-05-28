@@ -57,14 +57,14 @@ python -B main_S3DIS.py --gpu 0 --mode test --test_area 5 --model_path 'pretrain
 * Run: `python utils/6_fold_cv.py`  
 (Note: may change the target folder `original_data_dir` and the test results `base_dir` in ```./util/6_fold_cv.py```)
 
-## Results on S3DIS Dataset
+## Pretrained Models and Results on S3DIS Dataset
 <p align="center">
   <img width="1000" src="https://github.com/ShiQiu0419/BAAF-Net/blob/main/s3dis.png">
 </p>
 
+* BAAF-Net pretrained models on all 6 areas can be downloaded from [google drive](https://drive.google.com/file/d/1DkZeMxJ_ibngwPiW5K0Celcx-nEbaBFb/view?usp=sharing).
 * Download our results (**ply** files) via [google drive](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) for visualizations/comparisons.
-* Codes for 6-fold cross-validation can be found from [here](https://github.com/QingyongHu/RandLA-Net/blob/master/utils/6_fold_cv.py).
-* More Functions about loading/writing/etc. **ply** files can be found from [here](https://github.com/QingyongHu/RandLA-Net/blob/master/utils/6_fold_cv.py).
+* More Functions about loading/writing/etc. **ply** files can be found from [here](https://github.com/ShiQiu0419/BAAF-Net/blob/main/helper_ply.py).
 
 ## Results on SemanticKITTI Dataset
 * Online test results (sequence 11-21): mIoU: **59.9%**, OA: **89.8%**

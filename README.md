@@ -25,7 +25,8 @@ If you find our paper/codes/results are useful, please cite:
 * **04/05/2021** Results for S3DIS dataset (mIoU: **72.2%**, OA: **88.9%**, mAcc: **83.1%**) are [available](https://drive.google.com/file/d/1GnHhfeItJDJCM0rIFLR5H7SrWRwO37Y4/view?usp=sharing) now. 
 * **04/05/2021** Test results (sequence 11-21: mIoU: **59.9%**, OA: **89.8%**) for SemanticKITTI dataset are [available](https://drive.google.com/file/d/1FkyNfknwnJ2YnwUvPhMQGvJXCW--mqkK/view?usp=sharing) now.
 * **04/05/2021** Validation results (sequence 08: mIoU: **58.7%**, OA: **91.3%**) for SemanticKITTI are [available](https://drive.google.com/file/d/1grQ57rZXL34mAOmI_3IASovu_APOPMI3/view?usp=sharing) now.
-* To be continued.
+* **28/05/2021** Pretrained models can be downloaded on all 6 areas of S3DIS dataset are available at [google drive](https://drive.google.com/file/d/1DkZeMxJ_ibngwPiW5K0Celcx-nEbaBFb/view?usp=sharing). 
+* **28/05/2021** codes released!
 
 ## Settings
 * The project is tested on Python 3.6, Tensorflow 1.13.1 and cuda 10.0

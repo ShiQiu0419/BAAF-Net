@@ -18,6 +18,7 @@ If you find our paper/codes/results are useful, please cite:
       title={Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion},
       author={Qiu, Shi and Anwar, Saeed and Barnes, Nick},
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      pages={1757-1767},
       year={2021},
     }
 

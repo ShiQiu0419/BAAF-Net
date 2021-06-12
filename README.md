@@ -11,7 +11,7 @@ This repository is for BAAF-Net introduced in the following paper:
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 
 ## Paper and Citation
-The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).  
+The paper can be downloaded from [here (CVF)](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Semantic_Segmentation_for_Real_Point_Cloud_Scenes_via_Bilateral_Augmentation_CVPR_2021_paper.pdf) or [here (arXiv)](https://arxiv.org/abs/2103.07074).  
 If you find our paper/codes/results are useful, please cite:
 
     @inproceedings{qiu2021semantic,
